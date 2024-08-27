@@ -1,5 +1,5 @@
 ### Video game List
-## In Order of My Favorites
+## *In Order of My Favorites*
 
 ### A game about slaying demons and fighting the forces of Hell.
 1. [Diablo 4](https://diablo4.blizzard.com/en-us/)

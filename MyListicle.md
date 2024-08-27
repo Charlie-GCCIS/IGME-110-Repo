@@ -8,4 +8,4 @@
 ### A game where the objective changes every game and may the best team win.
 
 3. [Rocket League](https://www.rocketleague.com/en)
-### *Car Soccer* Thats about it
+### **Car Soccer** Thats about it

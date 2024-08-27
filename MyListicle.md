@@ -1,4 +1,4 @@
-### **Video game List**
+# **Video game List**
 ## **In Order of My Favorites**
 
 ### A game about slaying demons and fighting the forces of Hell.
